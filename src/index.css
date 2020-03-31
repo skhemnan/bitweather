@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Times New Roman;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	background: url('./assets/8bitimage.png');
+	background-size:cover;
+	}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nes-input{
+	background:transparent;
+	font-family:'Press Start 2P';
+	font-size:20px;
+	font-weight:bold;
+}
+
+.text{
+	font-family: 'Press Start 2P';
+}
+
